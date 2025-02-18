@@ -1,0 +1,9 @@
+.chart-wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.chart {
+    margin: 0 auto;
+    position: relative;
+}
